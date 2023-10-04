@@ -9,6 +9,7 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 ![table 1](figures/PDTW150K-fig2.PNG)
 
 
+
 | **#patents**   | Large   | Small    | **#drawings**  | Large   | Small   |
 |------------|---------|----------|------------|---------|---------|
 | Train      | 79,399  | 14,979   | Train      | 448,316 | 80,330  |
