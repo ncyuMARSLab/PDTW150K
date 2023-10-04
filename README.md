@@ -9,6 +9,9 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 ![table 1](PDTW150K-fig2.PNG)
 
 
+![table 2](PDTW150K-table2.PNG)
+
+Table 2. The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW105K.
 
 # Example images from the dataset
 ![fig 1](PDTW150K-fig1.png)
