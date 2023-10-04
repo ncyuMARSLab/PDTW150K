@@ -6,6 +6,20 @@ Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu.PDTW150K: A Dataset
 We introduce a new large-scale patent dataset termed PDTW150K for patent drawing retrieval. The dataset contains more than 150,000 patents associated with text metadata and over 850,000 patent drawings. In addition, a set of bounding box positions of individual drawing views is provided to support constructing semantic segmentation and object detection models. We demonstrate the possible ways of using PDTW150K, including image retrieval, cross-modal retrieval, and object detection tasks.
 
 
+
+<div align="center">
+
+| **#patents**   | Large   | Small    | **#drawings**  | Large   | Small   |
+|------------|---------|----------|------------|---------|---------|
+| Train      | 79,399  | 14,979   | Train      | 448,316 | 80,330  |
+| Validation | 19,958  | 4,998    | Validation | 113,284 | 26,586  |
+| Test       | 27,915  | 5,000    | Test       | 157,838 | 26,947  |
+| Total      | 127,272 | 24,977   | Total      | 719,438 | 133,863 |
+
+
+**Table 1.** The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW105K.
+</div>
+
 ![fig2](figures/PDTW150K-fig2.PNG)
 <div align="center">
   
@@ -18,14 +32,6 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 **Fig. 2.** The number of patents per year.
 </div>
 
-| **#patents**   | Large   | Small    | **#drawings**  | Large   | Small   |
-|------------|---------|----------|------------|---------|---------|
-| Train      | 79,399  | 14,979   | Train      | 448,316 | 80,330  |
-| Validation | 19,958  | 4,998    | Validation | 113,284 | 26,586  |
-| Test       | 27,915  | 5,000    | Test       | 157,838 | 26,947  |
-| Total      | 127,272 | 24,977   | Total      | 719,438 | 133,863 |
-
-**Table 1.** The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW105K.
 
 
 # Example images from the dataset
@@ -43,7 +49,7 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 | Abstract (AB)               | 圖１為本新式樣之「冰塊結構」之形狀；圖２為其正面圖；圖３為其頂面圖；圖４為其側面圖，另一側面相同；圖５為其底面圖。本創作之特徵在於其整體之造型，其中：一較大角錐體中具有四個較小之角錐體，該諸較小角錐體間以形成於其間之錐谷子以分隔。大角錐體之外緣係為圓弧狀。 整體觀之，本創作確為一特異之作。 |
 
 
-Table 1. An example of metadata of the patent “Ice Cube Structure.”
+**Table 2.** An example of metadata of the patent “Ice Cube Structure.”
 
 # Get the Dataset
 The dataset has been compressed and split into 2 parts. To decompress the dataset, please download all of the parts into a single folder and combine them into a single
