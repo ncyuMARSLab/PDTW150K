@@ -7,9 +7,16 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 
 
 ![fig2](figures/PDTW150K-fig2.PNG)
+<div align="center">
+  
+**Fig. 1.** The number of patents per LOC class.
+</div>
+
 ![fig3](figures/PDTW150K-fig3.PNG)
-
-
+<div align="center">
+  
+**Fig. 2.** The number of patents per year.
+</div>
 
 | **#patents**   | Large   | Small    | **#drawings**  | Large   | Small   |
 |------------|---------|----------|------------|---------|---------|
@@ -18,16 +25,18 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 | Test       | 27,915  | 5,000    | Test       | 157,838 | 26,947  |
 | Total      | 127,272 | 24,977   | Total      | 719,438 | 133,863 |
 
-Table 2. The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW105K.
+**Table 1.** The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW105K.
+
 
 # Example images from the dataset
 ![fig 1](figures/PDTW150K-fig1.png)
 
-Fig. 1. An example of two patent drawings with auxiliary information, where the left drawing has one view, and the right drawing has two views.
+**Fig. 3.** An example of two patent drawings with auxiliary information, where the left drawing has one view, and the right drawing has two views.
 
 
 | <span style="font-weight:normal">Patent Number (PN)</span>          | TW127824                                                                                                                                                                                                                                                                                          |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Issued Date (ID)            | 19900121                                                                                                                                                                                                                                                                                          |
 | Title (TI)                  | 冰塊結構 (Ice Cube Structure)                                                                                                                                                                                                                                                                     |
 | Issued Date (ID)            | 19900121                                                                                                                                                                                                                                                                                          |
 | Locarno classification (LC) | 01-01                                                                                                                                                                                                                                                                                             |
