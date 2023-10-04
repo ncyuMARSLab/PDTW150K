@@ -12,6 +12,7 @@ Fig. 1. An example of two patent drawings with auxiliary information, where the 
 
 ![table 1](PDTW150K-table1.PNG)
 
+Table 1. An example of metadata of the patent “Ice Cube Structure.”
 
 # Get the Dataset
 The dataset has been compressed and split into 2 parts ([Small](https://drive.google.com/drive/folders/1FmGmE5yeiJB-SpoL1brCyrFUZGDcbQJg)-[Large]()). To decompress the dataset, please download all of the parts into a single folder and combine them into a single
