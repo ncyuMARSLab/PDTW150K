@@ -35,9 +35,9 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 
 
 # Example images from the dataset
-![fig 1](figures/PDTW150K-fig1.png)
+![fig 4](figures/PDTW150K-fig4.png)
 
-**Fig. 3.** An example of two patent drawings with auxiliary information, where the left drawing has one view, and the right drawing has two views.
+
 
 
 | <span style="font-weight:normal">Patent Number (PN)</span>          | TW127824                                                                                                                                                                                                                                                                                          |
