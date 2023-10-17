@@ -1,13 +1,15 @@
 # PDTW150K Dataset
 In this repository, we provide the dataset as described in the following paper:
 
-Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu.PDTW150K: A Dataset for Patent Drawing Retrieval.
+Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu. PDTW150K: A Dataset for Patent Drawing Retrieval.
 
 We introduce a new large-scale patent dataset termed PDTW150K for patent drawing retrieval. The dataset contains more than 150,000 patents associated with text metadata and over 850,000 patent drawings. In addition, a set of bounding box positions of individual drawing views is provided to support constructing semantic segmentation and object detection models. We demonstrate the possible ways of using PDTW150K, including image retrieval, cross-modal retrieval, and object detection tasks.
 
 
 
 <div align="center">
+  
+**Table 1.** The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW150K.
 
 | **#patents**   | Large   | Small    | **#drawings**  | Large   | Small   |
 |------------|---------|----------|------------|---------|---------|
@@ -17,7 +19,6 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 | Total      | 127,272 | 24,977   | Total      | 719,438 | 133,863 |
 
 
-**Table 1.** The numbers of patents and drawings of the train, validation, and test sets in large and small parts of PDTW105K.
 </div>
 
 ![fig2](figures/PDTW150K-fig2.PNG)
@@ -59,4 +60,5 @@ The dataset has been compressed and split into 2 parts. To decompress the datase
 * Large part ([partition_1](https://drive.google.com/drive/folders/1SqoKJxhSMdZ9yhVltzo_RFBPx0tkwWRH?usp=sharing), [partition_2](https://drive.google.com/drive/folders/1E0jySfdlLrRf4oUT9ntpwq1wbgnn9v_A?usp=sharing), [partition_3](https://drive.google.com/drive/folders/1T02cEnvxAQGZRXLggeaB89PaiaLcP3oA?usp=sharing))
 
 
-More information and datasets will be available for download later.
+# Dataset Availability and Distribution
+PDTW150K is provided under “[Open Government Data License, version 1.0 (OGDL-Taiwan-1.0)]( https://www.tipo.gov.tw/en/cp-389-800409-65ea6-2.html)” in a free of charge, non-exclusive, and sublicensable method for the public.
