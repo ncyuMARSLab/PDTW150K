@@ -36,11 +36,16 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 
 
 
+
+
 <div align="center">
+
+
 
 **Table 2.** An example of metadata of the patent “Ice Cube Structure.”
 
 </div>
+
 
 
 
@@ -56,9 +61,11 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
   
 ![fig 4](figures/PDTW150K-fig4.png)
 
-</div>
+
 
 **Fig. 3.** Example images from the dataset.
+
+</div>
 
 # Get the Dataset
 The dataset has been compressed and split into 2 parts. To decompress the dataset, please download all of the parts into a single folder and combine them into a single
