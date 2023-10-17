@@ -36,7 +36,9 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 
 
 # Example images from the dataset
-![fig 4](figures/PDTW150K-fig4.png)
+
+**Table 2.** An example of metadata of the patent “Ice Cube Structure.”
+
 
 
 
@@ -50,7 +52,7 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 | Abstract (AB)               | 圖１為本新式樣之「冰塊結構」之形狀；圖２為其正面圖；圖３為其頂面圖；圖４為其側面圖，另一側面相同；圖５為其底面圖。本創作之特徵在於其整體之造型，其中：一較大角錐體中具有四個較小之角錐體，該諸較小角錐體間以形成於其間之錐谷子以分隔。大角錐體之外緣係為圓弧狀。 整體觀之，本創作確為一特異之作。 |
 
 
-**Table 2.** An example of metadata of the patent “Ice Cube Structure.”
+![fig 4](figures/PDTW150K-fig4.png)
 
 # Get the Dataset
 The dataset has been compressed and split into 2 parts. To decompress the dataset, please download all of the parts into a single folder and combine them into a single
