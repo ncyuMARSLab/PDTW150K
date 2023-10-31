@@ -70,10 +70,14 @@ We introduce a new large-scale patent dataset termed PDTW150K for patent drawing
 # Get the Dataset
 The dataset has been compressed and split into 2 parts. To decompress the dataset, please download all of the parts into a single folder and combine them into a single
 
-* Small part ([whole](https://drive.google.com/drive/folders/1FmGmE5yeiJB-SpoL1brCyrFUZGDcbQJg))
+* Small part ([whole](https://drive.google.com/drive/folders/1FmGmE5yeiJB-SpoL1brCyrFUZGDcbQJg)) 
 
 * Large part ([partition_1](https://drive.google.com/drive/folders/1SqoKJxhSMdZ9yhVltzo_RFBPx0tkwWRH?usp=sharing), [partition_2](https://drive.google.com/drive/folders/1E0jySfdlLrRf4oUT9ntpwq1wbgnn9v_A?usp=sharing), [partition_3](https://drive.google.com/drive/folders/1T02cEnvxAQGZRXLggeaB89PaiaLcP3oA?usp=sharing))
 
 
 # Dataset Availability and Distribution
 PDTW150K is provided under “[Open Government Data License, version 1.0 (OGDL-Taiwan-1.0)]( https://www.tipo.gov.tw/en/cp-389-800409-65ea6-2.html)” in a free of charge, non-exclusive, and sublicensable method for the public.
+
+All the patents can be found in “[Taiwan Patent Search System](https://twpat1.tipo.gov.tw/twpatc/twpatengkm)”: use the patent number to search the corresponding patent document. 
+
+
