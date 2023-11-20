@@ -1,5 +1,5 @@
 # PDTW150K Dataset
-In this repository, we provide the dataset as described in the following paper:
+In this repository, we provide the Patent Drawing: Taiwan Dataset 150K (PDTW50K), as described in the following paper:
 
 Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu. PDTW150K: A Dataset for Patent Drawing Retrieval.
 
