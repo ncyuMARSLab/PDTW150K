@@ -80,4 +80,6 @@ PDTW150K is provided under “[Open Government Data License, version 1.0 (OGDL-T
 
 All the patents can be found in “[Taiwan Patent Search System](https://twpat1.tipo.gov.tw/twpatc/twpatengkm)”: use the patent number to search the corresponding patent document. 
 
+# Citation
+
 
