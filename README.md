@@ -1,7 +1,7 @@
 # PDTW150K Dataset
 In this repository, we provide the Patent Drawing: Taiwan Dataset 150K (PDTW150K), as described in the following paper:
 
-Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu, "PDTW150K: a dataset for patent drawing retrieval," International Conference on Multimedia Modeling (MMM), Amsterdam, The Netherlands, Dec. 15-Dec. 15, 2023.
+Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu, "PDTW150K: a dataset for patent drawing retrieval," International Conference on Multimedia Modeling (MMM), Amsterdam, The Netherlands, Jan. 29-Feb. 2, 2024.
 
 We introduce a new large-scale patent dataset termed PDTW150K for patent drawing retrieval. The dataset contains more than 150,000 patents associated with text metadata and over 850,000 patent drawings. In addition, a set of bounding box positions of individual drawing views is provided to support constructing semantic segmentation and object detection models. We demonstrate the possible ways of using PDTW150K, including image retrieval, cross-modal retrieval, and object detection tasks.
 
