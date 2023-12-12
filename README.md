@@ -84,8 +84,5 @@ All the patents can be found in “[Taiwan Patent Search System](https://twpat1.
 We would like to thank TTSGROUP for the selfless support.
 
 # Citation
-PDTW-150k: A Taiwan Patent Image Dataset for Image Retrieval Applications
+Chan-Ming Hsu, Tse-Hung Lin, Yu-Hsien Chen, and Chih-Yi Chiu, "PDTW150K: a dataset for patent drawing retrieval," International Conference on Multimedia Modeling (MMM), Amsterdam, The Netherlands, Jan. 29-Feb. 2, 2024.
 
-A Deep Learning Methodology for Training Latent Feature Space of Patents
-
-Max Filtering Feature Pyramid Network for Taiwan Patent Object Detection
