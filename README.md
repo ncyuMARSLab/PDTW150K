@@ -80,6 +80,12 @@ PDTW150K is provided under “[Open Government Data License, version 1.0 (OGDL-T
 
 All the patents can be found in “[Taiwan Patent Search System](https://twpat1.tipo.gov.tw/twpatc/twpatengkm)”: use the patent number to search the corresponding patent document. 
 
+# Acknowledgements
+We would like to thank TTSGROUP for the selfless support.
+
 # Citation
+PDTW-150k: A Taiwan Patent Image Dataset for Image Retrieval Applications
 
+A Deep Learning Methodology for Training Latent Feature Space of Patents
 
+Max Filtering Feature Pyramid Network for Taiwan Patent Object Detection
